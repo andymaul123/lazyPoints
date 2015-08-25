@@ -6,6 +6,7 @@
 var pointValues = [15, 14, 14, 14, 14, 14];
 
 //Array of question types. Plug in the question types here.
+//Currently on supported types are Short Answer and Multiple Choice
 var pointTypes = ["SA", "SA", "SA", "MC", "SA", "MC"];
 
 //Multiplier is how many questions per pool, e.g. 3 for posttests
